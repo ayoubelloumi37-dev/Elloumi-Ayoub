@@ -2,5 +2,7 @@
   "name": "MOKA Shop — Votre boutique en ligne à Sfax",
   "description": "MOKA Shop : boutique en ligne en Tunisie simplifiant vos courses au quotidien. Fruits secs, alimentation, boissons, biscuits, épicerie et produits essentiels.",
   "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
 }
